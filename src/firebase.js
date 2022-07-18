@@ -5,7 +5,7 @@ import { initializeApp } from "firebase/app";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: process.env.MGS_FINILINE_PRV_KEY,
+  apiKey: process.env.MGS_FINILINE_PRIV_KEY,
   authDomain: "mgsfineline.firebaseapp.com",
   projectId: "mgsfineline",
   storageBucket: "mgsfineline.appspot.com",
